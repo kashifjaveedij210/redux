@@ -1,0 +1,43 @@
+.home{
+    text-decoration: none;
+    background-color: white;
+    position: absolute ;
+    left: 300px;
+    margin-top: 20px;
+    font-size: 30px;
+}
+.lnk{
+    text-decoration: none;
+}
+.cat{
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-right: 30px;
+    
+}
+.mob{
+    background-color: none;
+    border: none;
+}
+.drop{
+    width: 300px;
+    margin-top: 20px;
+    padding-left: 20px;
+
+}
+#dropdown-basic{
+    background-color: transparent;
+    color: black;
+    border: none;
+    margin-top: 25px;
+}
+.pdetail{
+position: absolute;
+left: 600px;
+top: 150px;
+}
+.imgdetail{
+    position: absolute;
+    left: 350px;
+    top: 150px;
+}
